@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Debashish**
 - GitHub: [@debashish123-cmky](https://github.com/debashish123-cmky)
-- Email: your.email@example.com
+- Email: https://mithudeb113@gmail.com
 
 ## 🙏 Acknowledgments
 
